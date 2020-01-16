@@ -3,12 +3,12 @@ var value = "blue";
 
 
 
+document.getElementById('txt').innerHTML = key;
 
 
 
 
-
-$("#myText").text("hoover");
+// $("#myText").text("hoover");
 
 
 
